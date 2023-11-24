@@ -1,0 +1,16 @@
+{
+  "name": "nava-2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "turb ron test",
+    "start:dev": "turbo run start:dev --no-cache --continue"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "apps/*"
+  ]
+}
